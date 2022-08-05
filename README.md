@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ken Mambo
-- 👀 I’m interested in Data Engineering
-- 🌱 I’m currently learning Data Science
+- 👀 I’m interested in solving data related challenges
+- 🌱 I’m currently a Data Analyst
 - 💞️ I’m looking to collaborate on machine learning and datascience projects
 - 📫 How to reach me on linkedIn @ https://www.linkedin.com/in/kenneth-mambo
 
