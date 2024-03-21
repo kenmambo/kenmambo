@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ken Mambo
+- 👋 Hi, I’m Kenneth Mambo
 - 👀 I’m interested in solving data related challenges
 - 🌱 I’m currently a Data Analyst
 - 💞️ I’m looking to collaborate on machine learning and datascience projects
